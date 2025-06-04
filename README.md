@@ -6,7 +6,7 @@ Este repositório contém os exercícios práticos desenvolvidos por mim durante
 
 ## 📚 Cursos
 
-- Primeiros passos com Python
+- Primeiros passos com Python (módulo de dicionários, funções e o desafio final)
 
 ---
 
